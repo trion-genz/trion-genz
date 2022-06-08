@@ -1,3 +1,5 @@
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/trion-genz/trion-genz/blob/main/13865901(1).gif))
+
 - 👋 Hi, I’m @trion-genz
 - 👀 I’m interested in MLOps
 - 📫 How to reach me trion.genz@gmail.com
